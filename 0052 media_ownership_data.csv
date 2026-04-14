@@ -1,0 +1,68 @@
+entity_name,entity_type,parent_conglomerate,est_value_usd_billions,notes
+Disney,conglomerate,,200+,Total market cap ~$200B as of 2024
+Comcast (NBCUniversal),conglomerate,,165+,Total market cap ~$165B as of 2024
+Warner Bros. Discovery,conglomerate,,16,Market cap ~$16B (distressed) as of 2024; Netflix acquisition valued at ~$83B
+Fox Corp. (News Corp),conglomerate,,25,Combined Fox Corp + News Corp market cap ~$25B
+Paramount Global,conglomerate,,8,Market cap ~$8B; Skydance merger in progress 2024
+Sony,conglomerate,,110,Sony Group total market cap; entertainment segment portion ~$20B
+Disney Parks,brand,Disney,80.0,Largest single asset in Disney portfolio by operating income
+Marvel Studios,brand,Disney,50.0,Estimated IP/franchise value; acquired for $4B in 2009
+ESPN,brand,Disney,28.0,Analyst consensus brand value; potential spinoff discussions
+Disney+,brand,Disney,15.0,Streaming service valuation estimate
+Lucasfilm,brand,Disney,4.0,Acquired for $4.05B in 2012
+Pixar,brand,Disney,3.0,Acquired for $7.4B in 2006; brand value post-consolidation
+20th Century Studios,brand,Disney,2.0,Acquired via 21st Century Fox deal $71B in 2019
+ABC,brand,Disney,2.5,Broadcast network valuation estimate
+FX,brand,Disney,1.5,Premium cable brand acquired via Fox deal
+National Geographic,brand,Disney,1.0,Media brand; acquired via Fox deal
+Freeform,brand,Disney,0.5,Formerly ABC Family; rebranded 2016
+Universal Pictures,brand,Comcast (NBCUniversal),30.0,Film studio valuation estimate
+Peacock,brand,Comcast (NBCUniversal),5.0,Streaming service; ~34M subscribers as of 2024
+DreamWorks Animation,brand,Comcast (NBCUniversal),3.8,Acquired for $3.8B in 2016
+NBC,brand,Comcast (NBCUniversal),4.0,Flagship broadcast network
+Sky News,brand,Comcast (NBCUniversal),2.0,International news brand; part of Sky acquisition ($39B 2018)
+MSNBC,brand,Comcast (NBCUniversal),1.5,Cable news network
+CNBC,brand,Comcast (NBCUniversal),1.0,Business news cable network
+Telemundo,brand,Comcast (NBCUniversal),1.0,Spanish-language broadcast network
+Bravo,brand,Comcast (NBCUniversal),0.5,Reality/lifestyle cable network
+USA Network,brand,Comcast (NBCUniversal),0.5,General entertainment cable network
+HBO,brand,Warner Bros. Discovery,40.0,Crown jewel of WBD; HBO/Max ~116M subscribers globally Q4 2024
+Warner Bros. Pictures,brand,Warner Bros. Discovery,20.0,Film studio; over 100 years of IP and library
+DC Studios,brand,Warner Bros. Discovery,10.0,Superhero IP franchise value estimate
+Max,brand,Warner Bros. Discovery,8.0,Streaming service (formerly HBO Max)
+CNN,brand,Warner Bros. Discovery,1.5,News network; declining valuation amid cord-cutting
+Discovery Channel,brand,Warner Bros. Discovery,1.0,Flagship unscripted cable network
+TNT,brand,Warner Bros. Discovery,1.0,General entertainment cable; lost NBA rights 2024
+TBS,brand,Warner Bros. Discovery,0.8,Comedy/entertainment cable network
+Adult Swim,brand,Warner Bros. Discovery,0.8,Animation/comedy late-night block
+Food Network,brand,Warner Bros. Discovery,0.8,Lifestyle cable network; acquired via Scripps 2018
+Fox News,brand,Fox Corp. (News Corp),20.0,Most-watched cable news network; high ad revenue
+Dow Jones,brand,Fox Corp. (News Corp),5.0,Financial data and news division
+Fox Sports,brand,Fox Corp. (News Corp),5.0,Sports broadcast and cable rights portfolio
+Wall Street Journal,brand,Fox Corp. (News Corp),3.0,Premium print/digital news brand
+Fox Broadcasting,brand,Fox Corp. (News Corp),3.0,Broadcast network; Super Bowl and NFL rights
+HarperCollins,brand,Fox Corp. (News Corp),2.0,Major book publisher; acquired 1987
+New York Post,brand,Fox Corp. (News Corp),0.3,Tabloid newspaper; operates at a loss
+Nickelodeon,brand,Paramount Global,5.0,Children's TV brand; SpongeBob franchise
+CBS,brand,Paramount Global,4.0,Most-watched broadcast network in the US
+Showtime,brand,Paramount Global,4.0,Premium cable; merging with Paramount+
+Paramount Pictures,brand,Paramount Global,4.0,Historic film studio; over 100 years of operation
+Paramount+,brand,Paramount Global,3.0,Streaming service; ~67M subscribers as of 2024
+MTV,brand,Paramount Global,1.0,Music and reality TV cable network
+Comedy Central,brand,Paramount Global,1.0,Comedy cable network
+BET,brand,Paramount Global,1.0,Black Entertainment Television; acquired 2001
+VH1,brand,Paramount Global,0.3,Music/reality cable network; declining viewership
+Sony Music,brand,Sony,8.0,One of the Big Three record labels globally
+Sony Pictures,brand,Sony,5.0,Film studio; Columbia and TriStar divisions
+Columbia Pictures,brand,Sony,3.0,Flagship film production label under Sony Pictures
+TriStar Pictures,brand,Sony,1.5,Secondary label under Sony Pictures
+Crunchyroll,brand,Sony,1.2,Anime streaming; acquired for $1.175B in 2021
+Sony Liv,brand,Sony,0.5,Indian streaming service
+Hulu,joint_venture,"Disney, Comcast (NBCUniversal)",20.0,Disney majority owner (67%); Comcast sold remaining 33% stake to Disney in 2024 for $8.61B
+A&E Networks,joint_venture,"Disney, Comcast (NBCUniversal)",2.5,50/50 JV between Disney and Hearst; Comcast has indirect interest
+CW Network (hist.),joint_venture,"Disney, Warner Bros. Discovery",0.5,Historically 50/50 WBD+CBS; Nexstar acquired 75% stake in 2022
+Olympic Coverage JV,joint_venture,"Comcast (NBCUniversal), Warner Bros. Discovery",1.0,Ad-hoc rights sharing agreement for specific Olympic events
+Venu Sports (prop.),joint_venture,"Fox Corp. (News Corp), Warner Bros. Discovery, Disney",2.0,Proposed sports streaming JV; blocked by courts in 2024
+Rotten Tomatoes,joint_venture,"Fox Corp. (News Corp), Comcast (NBCUniversal)",0.2,Review aggregator; jointly owned by Fandango (Comcast) and Fox
+MGM (joint dist.),joint_venture,"Paramount Global, Sony",1.5,Historical distribution arrangement; MGM now largely Amazon-owned
+Spider-Man Films,joint_venture,"Sony, Disney",3.0,Sony owns film rights; Disney/Marvel produces; revenue-sharing deal
